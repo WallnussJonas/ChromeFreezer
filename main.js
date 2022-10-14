@@ -3,3 +3,4 @@ function freeze(){
         console.log("Help I am stuck in a while loop")
     }
 }
+freeze();
